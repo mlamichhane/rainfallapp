@@ -55,6 +55,9 @@ plot(raindata$Year, raindata$Rainfall..mm., xlab="Year", ylab="Rainfall(mm)")
 ---
 
 ## The application
-The application provides interface to select a station and a range for year.
+The application provides interface to select a station from 6 major cities in Nepal as well a range of years. 
 
 ![app](assets/img/shiny_app.png)
+
+
+https://mlamichhane.shinyapps.io/shiny_app/
